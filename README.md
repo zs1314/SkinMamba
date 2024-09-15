@@ -108,7 +108,7 @@ python train.py
 🐥: Before training and testing, configure the relevant parameters `configs/config_setting.py` 
 
 ### `D. Get model weights`
-You can download the model weights (OCTAMamba) from here: [Baidu](https://pan.baidu.com/s/1kyQMFuDUe0Um6v9bhMVqwA?pwd=1314) or [GoogleDrive](https://drive.google.com/file/d/1ialdv8WJoKEZkkwiqGuleEWnXOyyUEoW/view?usp=sharing)
+You can download the model weights (SkinMamba) from here: [Baidu](https://pan.baidu.com/s/1kyQMFuDUe0Um6v9bhMVqwA?pwd=1314) or [GoogleDrive](https://drive.google.com/file/d/1ialdv8WJoKEZkkwiqGuleEWnXOyyUEoW/view?usp=sharing)
 
 ### `E. Obtain the Outputs`
 After trianing, you could obtain the results in './results/'
