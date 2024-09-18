@@ -2,7 +2,7 @@
 <img src="assets/mamba.png">
 <h3>SkinMamba: A Precision Skin Lesion Segmentation Architecture with Cross-Scale Global State Modeling and Frequency Boundary Guidance</h3>
 
-[[`Paper`]()] 
+[[`Paper`](https://arxiv.org/abs/2409.10890)] 
 [[`Project Page`]()]
 
 
