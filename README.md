@@ -111,7 +111,7 @@ python train.py
 You can download the model weights (SkinMamba) from here: [Baidu](https://pan.baidu.com/s/1kyQMFuDUe0Um6v9bhMVqwA?pwd=1314) or [GoogleDrive](https://drive.google.com/file/d/1ialdv8WJoKEZkkwiqGuleEWnXOyyUEoW/view?usp=sharing)
 
 ### `E. Obtain the Outputs`
-After trianing, you could obtain the results in './results/'
+After training, you could obtain the results in './results/'
 
 ## 🤝Acknowledgments
 This project is based on VMamba ([paper](https://arxiv.org/abs/2401.10166), [code](https://github.com/MzeroMiko/VMamba)). Thanks for their excellent works!!
